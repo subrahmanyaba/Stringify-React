@@ -1,2 +1,2 @@
-# Stringify-React
-text app
+# stringify
+ app for texts
